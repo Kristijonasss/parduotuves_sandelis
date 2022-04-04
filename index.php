@@ -1,5 +1,5 @@
-<?php 
+<?php
 
-echo 'parduotuves sandelis'
+echo date('Y-m-d H:i:s');
 
 ?>
